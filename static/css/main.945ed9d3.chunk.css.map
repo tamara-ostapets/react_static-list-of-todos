@@ -1,0 +1,1 @@
+{"version":3,"sources":["Todo.css"],"names":[],"mappings":"AAAA,WACE,UACF,CAEA,YACE,SACF","file":"main.945ed9d3.chunk.css","sourcesContent":[".completed {\n  color: lime;\n}\n\n.inprogress {\n  color: red;\n}\n"]}
